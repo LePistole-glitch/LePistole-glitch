@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LePistole-glitch
-- 👀 I’m I am a Computer Systems Engineering student from Mexico.
+- 👀 I’m a Computer Systems Engineering student from Mexico.
 - 🌱 I am currently learning Python, O.S., Databases and Networking.
 
 
