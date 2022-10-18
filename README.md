@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LePistole-glitch or Jesus Chavez Arias
+- 👋 Hi, I’m @LePistole-glitch
 - 👀 I’m a Computer Systems Engineering student from Mexico.
 - 🌱 I am currently learning Python, C#, ProLog, Operative Systems, Databases, etc.
 
