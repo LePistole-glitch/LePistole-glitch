@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LePistole-glitch
-- 👀 I’m a Computer Systems Engineering student from Mexico.
+- 👀 I’m a Computer Systems Engineering student.
 - 🌱 I am currently learning Python, C#, ProLog, Linux, AWS, Databases (Oracle DB, MySQL - MySQLite), Docker.
 
 
