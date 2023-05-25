@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LePistole-glitch
 - 👀 I’m a Computer Systems Engineering student.
-- 🌱 I am currently learning Python, C#, ProLog, Linux, AWS, Databases (Oracle DB, MySQL - MySQLite), Docker.
+- 🌱 I am currently learning Python, C#, C/C++, ProLog, Linux (Fedora 38 & Oracle Linux), AWS, Databases (Oracle DB, MySQL - MySQLite), Docker.
 
 
 <!---
