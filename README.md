@@ -1,6 +1,23 @@
-- 👋 Hi, I’m @LePistole-glitch
-- 👀 I’m a Computer Systems Engineering student.
-- 🌱 I am currently learning Python, C#, C/C++, ProLog, Linux (Fedora 38 & Oracle Linux), AWS, Databases (Oracle DB, MySQL - MySQLite), Docker, Angular(Typescript, HTML, SCSS/CSS).
+# ¡Hola! 👋 Soy [LePistole-glitch](https://github.com/LePistole-glitch)
+
+## Acerca de mí
+Soy estudiante de Ingeniería de Sistemas Computacionales apasionado por la programación y la tecnología. Me encanta aprender nuevos lenguajes de programación y explorar diferentes áreas de desarrollo de software.
+
+## Mis habilidades
+- Lenguajes de programación: Python, C#, C/C++, ProLog
+- Desarrollo web: Angular, TypeScript, HTML, SCSS/CSS
+- Sistemas operativos: Linux (Fedora 38 & Oracle Linux)
+- Bases de datos: Oracle DB, MySQL, MySQLite
+- Cloud: AWS
+- Contenedores: Docker
+
+## Contacto
+- LinkedIn: [Tu perfil de LinkedIn](enlace a tu perfil de LinkedIn)
+- Correo electrónico: [Tu dirección de correo electrónico](l19141132@queretaro.tecnm.mx)
+
+¡No dudes en ponerse en contacto conmigo si tienes alguna pregunta, proyecto interesante o simplemente quieres conectarte! Estoy abierto a colaboraciones y oportunidades de aprendizaje.
+
+¡Gracias por visitar mi perfil de GitHub!
 
 
 <!---
