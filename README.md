@@ -12,8 +12,7 @@ Soy estudiante de Ingeniería de Sistemas Computacionales apasionado por la prog
 - Contenedores: Docker
 
 ## Contacto
-- LinkedIn: [Tu perfil de LinkedIn](enlace a tu perfil de LinkedIn)
-- Correo electrónico: [Tu dirección de correo electrónico](l19141132@queretaro.tecnm.mx)
+- Correo electrónico: [EMail](l19141132@queretaro.tecnm.mx)
 
 ¡No dudes en ponerse en contacto conmigo si tienes alguna pregunta, proyecto interesante o simplemente quieres conectarte! Estoy abierto a colaboraciones y oportunidades de aprendizaje.
 
