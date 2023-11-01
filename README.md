@@ -4,9 +4,9 @@
 Soy estudiante de Ingeniería de Sistemas Computacionales apasionado por la programación y la tecnología. Me encanta aprender nuevos lenguajes de programación y explorar diferentes áreas de desarrollo de software.
 
 ## Mis habilidades
-- Lenguajes de programación: Python, C#, C/C++, ProLog
+- Lenguajes de programación: Python, C#, C/C++.
 - Desarrollo web: Angular, TypeScript, HTML, SCSS/CSS
-- Sistemas operativos: Linux (Fedora 38 & Oracle Linux)
+- Sistemas operativos: Linux (Fedora 38, Debian & Oracle Linux)
 - Bases de datos: Oracle DB, MySQL, MySQLite
 - Cloud: AWS
 - Contenedores: Docker
